@@ -1,12 +1,7 @@
-# custom-unsplash-new-tab
+# WhatColorIsIt
 
-remade the unsplash new tab chrome extension.
+At one point there was a site that took the current time and showed that as its hex color, but now its gone. Sooo, I brought it back.
+CHROME EXTENSION
 
-mostly made for a blog post on Learn.co
-
-uses the fetch api which is currently **NOT** available in Safari (works on macOS on TP)
-
-# Screenshot
-![Screenshot](screenshot.png)
-
-![basically](http://weknowmemes.com/wp-content/uploads/2013/11/i-made-this-comic.jpg)
+side note: mix-blend-mode is 🔥
+![css mix-blend-mode <3](blend-mode.mov.gif)
