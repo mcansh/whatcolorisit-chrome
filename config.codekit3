@@ -11,23 +11,23 @@
 "files": {
 	"\/.eslintrc": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/docs\/.eslintrc",
-		"oF": 0
+		"oF": 1
 		},
 	"\/.gitignore": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/docs\/.gitignore",
-		"oF": 0
+		"oF": 1
 		},
 	"\/blend-mode.mov.gif": {
 		"ft": 4194304,
 		"iS": 1814347,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/docs\/blend-mode.mov.gif",
-		"oF": 0,
-		"opt": 0
+		"oF": 1,
+		"opt": 1
 		},
 	"\/docs": {
 		"ft": 65536,
@@ -43,9 +43,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/docs\/README.html",
-		"oF": 0,
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -137,9 +137,9 @@
 		},
 	"\/whatcolorisit.crx": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/docs\/whatcolorisit.crx",
-		"oF": 0
+		"oF": 1
 		}
 	},
 "hooks": [
@@ -151,7 +151,7 @@
 	"displayValue": "whatcolorisit-chrome",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-wonka",
-	"lastBuiltDate": 506731062
+	"lastBuiltDate": 506731548
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
