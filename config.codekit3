@@ -21,6 +21,14 @@
 		"oAP": "\/docs\/.gitignore",
 		"oF": 0
 		},
+	"\/blend-mode.mov.gif": {
+		"ft": 4194304,
+		"iS": 1814347,
+		"oA": 0,
+		"oAP": "\/docs\/blend-mode.mov.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/docs": {
 		"ft": 65536,
 		"oA": 1,
