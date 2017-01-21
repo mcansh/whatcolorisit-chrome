@@ -1,0 +1,12 @@
+{
+ "chrome_url_overrides": {
+    "newtab": "index.html"
+ },
+ "content_security_policy": "script-src 'self' https://ssl.google-analytics.com http://localhost:35729/livereload.js; object-src 'self'",
+ "description": "WhatColorIsIt",
+ "homepage_url": "https://github.com/mcansh/WhatColorIsIt-chrome",
+ "manifest_version": 2,
+ "name": "WhatColorIsIt",
+ "update_url": "https://github.com/mcansh/WhatColorIsIt-chrome/raw/master/whatcolorisit.crx",
+ "version": "1.0"
+}
