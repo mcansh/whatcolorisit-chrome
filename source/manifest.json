@@ -7,6 +7,5 @@
  "homepage_url": "https://github.com/mcansh/WhatColorIsIt-chrome",
  "manifest_version": 2,
  "name": "WhatColorIsIt",
- "update_url": "https://github.com/mcansh/WhatColorIsIt-chrome/raw/master/whatcolorisit.crx",
  "version": "1.0"
 }
